@@ -194,7 +194,7 @@ Transform:
   m_GameObject: {fileID: 150415315}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.6, y: -11.83, z: 0}
+  m_LocalPosition: {x: 2.77, y: -13.09, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -451,15 +451,15 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
+    x: 0.20312501
     y: 0
-    width: 1
-    height: 1
+    width: 0.35740742
+    height: 0.3574074
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5.625
+  orthographic size: 2.134795
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -599,8 +599,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 0, y: -0.00000011920929, z: 0}
-    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -2238,11 +2238,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4695823948071635674, guid: bf4d76bd488a8470da576a78f68747b7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.11
+      value: 8.25
       objectReference: {fileID: 0}
     - target: {fileID: 4695823948071635674, guid: bf4d76bd488a8470da576a78f68747b7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.95
+      value: -0.09
       objectReference: {fileID: 0}
     - target: {fileID: 4695823948071635674, guid: bf4d76bd488a8470da576a78f68747b7, type: 3}
       propertyPath: m_LocalPosition.z
