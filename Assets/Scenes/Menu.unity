@@ -374,7 +374,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8405423935412756652, guid: 3a6a8efed9a59634090401ff3a5c49df, type: 3}
       propertyPath: m_Name
-      value: Button
+      value: Quittbutton
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -825,7 +825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8405423935412756652, guid: 3a6a8efed9a59634090401ff3a5c49df, type: 3}
       propertyPath: m_Name
-      value: Button (1)
+      value: Playbutton
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -973,8 +973,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 368750113}
   - {fileID: 393887870}
+  - {fileID: 368750113}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
