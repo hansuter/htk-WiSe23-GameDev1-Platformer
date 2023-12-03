@@ -6,6 +6,7 @@ TagManager:
   tags:
   - KillZone
   - Checkpoint
+  - Lightning
   layers:
   - Default
   - TransparentFX
