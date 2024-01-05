@@ -1436,10 +1436,10 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.24918982
-    y: 0
-    width: 0.5011465
-    height: 0.9994456
+    x: 0
+    y: 0.22689076
+    width: 0.9995662
+    height: 0.54453784
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
@@ -1469,7 +1469,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 77.35, y: 7.28, z: -10}
+  m_LocalPosition: {x: 76.6, y: 7.7, z: -10}
   m_LocalScale: {x: 0, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1489,8 +1489,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ComponentVersion: 1
   m_AssetsPPU: 16
-  m_RefResolutionX: 440
-  m_RefResolutionY: 270
+  m_RefResolutionX: 640
+  m_RefResolutionY: 360
   m_CropFrame: 4
   m_GridSnapping: 0
   m_FilterMode: 0
@@ -28093,7 +28093,7 @@ Transform:
   m_GameObject: {fileID: 985306466}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 77.35, y: 7.28, z: -10}
+  m_LocalPosition: {x: 76.6, y: 7.7, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -72739,7 +72739,7 @@ Transform:
   m_GameObject: {fileID: 1193488132}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 77.35, y: 7.28, z: 0}
+  m_LocalPosition: {x: 76.6, y: 7.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
