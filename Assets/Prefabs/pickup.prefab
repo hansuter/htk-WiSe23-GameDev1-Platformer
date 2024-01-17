@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7336722294298754290}
   - component: {fileID: 2690408179875772203}
   - component: {fileID: 6084599470041162093}
+  - component: {fileID: 3029184253714975537}
   m_Layer: 0
   m_Name: pickup
   m_TagString: Untagged
@@ -154,3 +155,24 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: b84dbd5c66114c44ca39e85f74cbd37d, type: 2}
+--- !u!95 &3029184253714975537
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8443674468927704803}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 240840b89277c8247b35b5c63b2ee406, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
