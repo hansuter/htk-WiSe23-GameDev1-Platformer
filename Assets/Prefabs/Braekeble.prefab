@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2018534185799819559}
   - component: {fileID: 7759761665013446431}
   - component: {fileID: 2561305972252937927}
+  - component: {fileID: 3743778698545670657}
   m_Layer: 0
   m_Name: Braekeble
   m_TagString: Breakable
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: 21300000, guid: f53433607c3da974d9c350c0aa14971c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -163,3 +164,24 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.0810623, y: 8}
   m_EdgeRadius: 0
+--- !u!95 &3743778698545670657
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107316734162426769}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a99fb79528930ef458e6ac1fea492697, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
